@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039529622143",
+    "project_id": "fitnessuygulamas",
+    "storage_bucket": "fitnessuygulamas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039529622143:android:268aa8387507a3f35f5d4a",
+        "android_client_info": {
+          "package_name": "com.example.fitnessuygulamas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFnr3V_sO0Fk5p9GnqC7lZuCizhZ-7D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
